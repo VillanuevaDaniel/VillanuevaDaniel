@@ -1,16 +1,82 @@
-## Hi there 👋
 
-<!--
-**VillanuevaDaniel/VillanuevaDaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hola, soy Daniel Villanueva
 
-Here are some ideas to get you started:
+Bienvenido a mi perfil de GitHub 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy estudiante y desarrollador en proceso, con interés en **desarrollo fullstack**, **videojuegos**, **sistemas** y **software bien hecho**. Me gusta aprender cómo funcionan las cosas por dentro y llevar ideas a proyectos reales.
+
+---
+
+## 🧠 Sobre mí
+
+- 🎓 Estudiante universitario
+    
+- 💻 Interesado en Fullstack (Frontend + Backend)
+    
+- 🎮 Desarrollando videojuegos en **Godot**
+    
+- 🐧 Usuario de **Linux** (Arch / Omarchy / Bazzite)
+    
+- 🔍 Me gusta experimentar, romper cosas y arreglarlas
+    
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+**Lenguajes**
+
+- HTML, CSS, JavaScript / TypeScript
+    
+- Python
+    
+- C#
+    
+- SQL
+    
+
+**Frameworks / Motores**
+
+- Angular
+        
+- Godot Engine
+    
+- Windows Forms
+    
+
+**Herramientas**
+
+- Git & GitHub
+    
+- Linux
+    
+- VS Code
+    
+- PostgreSQL
+    
+
+---
+
+## 🚧 En qué estoy trabajando
+
+- 📦 Proyectos académicos y personales
+    
+- 🎮 Un videojuego indie con narrativa oscura y humor
+    
+- 🧠 Mejorando lógica, arquitectura y buenas prácticas
+    
+
+---
+
+## 🎯 Objetivos
+
+- Convertirme en **desarrollador Fullstack**
+    
+- Publicar proyectos completos y bien documentados
+    
+- Aprender más sobre sistemas, motores y rendimiento
+    
+
+---
+
+⭐ Si algo de lo que hago te sirve o te llama la atención, siéntete libre de seguirme o explorar mis repos
