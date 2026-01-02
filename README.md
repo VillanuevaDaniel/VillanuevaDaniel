@@ -1,28 +1,27 @@
 
-# 👋 Hola, soy Daniel Villanueva
+# 👋 Hola!!!, soy Daniel Villanueva
 
-Bienvenido a mi perfil de GitHub 🚀
 
 Soy estudiante y desarrollador en proceso, con interés en **desarrollo fullstack**, **videojuegos**, **sistemas** y **software bien hecho**. Me gusta aprender cómo funcionan las cosas por dentro y llevar ideas a proyectos reales.
 
 ---
 
-## 🧠 Sobre mí
+##  Sobre mí
 
-- 🎓 Estudiante universitario
+-  Estudiante universitario
     
-- 💻 Interesado en Fullstack (Frontend + Backend)
+-  Interesado en Fullstack (Frontend + Backend)
     
-- 🎮 Desarrollando videojuegos en **Godot**
+-  Desarrollando videojuegos en **Godot**
     
-- 🐧 Usuario de **Linux** (Arch / Omarchy / Bazzite)
+-  Usuario de **Linux** (Debian / arch)
     
-- 🔍 Me gusta experimentar, romper cosas y arreglarlas
+-  Me gusta experimentar, romper cosas y arreglarlas
     
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+##  Tecnologías y herramientas
 
 **Lenguajes**
 
@@ -57,18 +56,18 @@ Soy estudiante y desarrollador en proceso, con interés en **desarrollo fullstac
 
 ---
 
-## 🚧 En qué estoy trabajando
+##  En qué estoy trabajando
 
-- 📦 Proyectos académicos y personales
+-  Proyectos académicos y personales
     
-- 🎮 Un videojuego indie con narrativa oscura y humor
+-  Un videojuego indie con narrativa oscura y humor
     
-- 🧠 Mejorando lógica, arquitectura y buenas prácticas
+-  Mejorando lógica, arquitectura y buenas prácticas
     
 
 ---
 
-## 🎯 Objetivos
+## Objetivos
 
 - Convertirme en **desarrollador Fullstack**
     
