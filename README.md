@@ -1,6 +1,6 @@
-# 👋 Hola, soy Daniel Cerpa
+# Hola, soy Daniel Cerpa
 
-Estudiante universitario apasionado por el desarrollo **WEB**, construyendo proyectos desde el frontend hasta el backend. Usuario de **Linux** (Arch / Debian)
+Desarrollador Fullstack y Analista de Datod, Me gusta crear aplicaciones y soluciones efectivas que resuelvan problemas cotidianos en el mundo laboral
 
 ---
 
