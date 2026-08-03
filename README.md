@@ -8,7 +8,7 @@ Estudiante universitario apasionado por el desarrollo **WEB**, construyendo proy
 
 | Proyecto | Descripción | Tech | Demo |
 |---|---|---|---|
-| [Pokedex](https://github.com/danielcerpa/Pokedex) | Pokédex interactiva con búsqueda y filtros | TypeScript | [🌐 Ver](https://pokedex-rust-iota.vercel.app) |
+| [Pokedex](https://github.com/danielcerpa/Pokedex) | Pokédex interactiva con búsqueda y filtros | TypeScript |— |
 | [Portfolio](https://github.com/danielcerpa/Portfolio) | Portfolio personal con mis proyectos y habilidades | CSS / HTML | [🌐 Ver](https://portfolio-two-gilt-40.vercel.app) |
 | [Control Escolar](https://github.com/danielcerpa/control2) | Sistema de control escolar | PHP | — |
 | [Entomología](https://github.com/danielcerpa/Public_entomologia) | Sitio web sobre entomología | CSS / HTML | — |
