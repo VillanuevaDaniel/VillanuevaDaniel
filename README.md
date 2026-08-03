@@ -1,7 +1,6 @@
 # Hola, soy Daniel Cerpa
 
 Desarrollador Fullstack y Analista de Datod, Me gusta crear aplicaciones y soluciones efectivas que resuelvan problemas cotidianos en el mundo laboral
-
 ---
 
 ## Proyectos destacados
